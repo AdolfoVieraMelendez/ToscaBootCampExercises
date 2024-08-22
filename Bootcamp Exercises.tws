@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TCWorkspace xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <WorkspaceRepository>
+    <RepoClass>SQLiteRepository</RepoClass>
+    <DatabasePathAndName>.\Repository\Bootcamp Exercises.db</DatabasePathAndName>
+    <Database>C:\Tosca_Projects\Tosca_Workspaces\Bootcamp Exercises\Repository\Bootcamp Exercises.db</Database>
+    <DatabaseUser />
+    <DatabasePwd />
+    <DatabaseSchema />
+  </WorkspaceRepository>
+  <CommonRepository>
+    <RepoClass>null</RepoClass>
+  </CommonRepository>
+  <DefaultUser>
+    <UserName>Admin</UserName>
+    <UserSurrogate>3a14826f-3b01-e97d-7e0d-428b118a16c8</UserSurrogate>
+  </DefaultUser>
+  <TCWorkspaceID>af3ab6e7-ba40-4a0b-b435-e18c4c5314e7</TCWorkspaceID>
+  <TCCommonRepositoryID />
+  <TCWorkspaceDescription />
+</TCWorkspace>
