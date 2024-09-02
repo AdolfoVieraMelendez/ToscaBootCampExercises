@@ -9,3 +9,28 @@
 [Info] 24/08/2024 07:34:59 a. m.: -2147483648/-2147483648 - Recalculating index statistics
 [Info] 24/08/2024 07:34:59 a. m.: Compacting Workspace - Recalculating Index Statistics finished in 00:00:00.0175799, database size: 17739776
 [Info] 24/08/2024 07:34:59 a. m.: Compacting finished
+[Info] 26/08/2024 12:22:31 a. m.: Auto-exclusion started
+[Info] 26/08/2024 12:22:31 a. m.: 0/100 - Unused objects exclusion
+[Info] 26/08/2024 12:22:31 a. m.: 50/100 - Unused objects exclusion
+[Info] 26/08/2024 12:22:31 a. m.: 100/100 - Unused objects exclusion
+[Info] 26/08/2024 12:22:31 a. m.: Auto-exclusion finished
+[Info] 26/08/2024 11:16:29 p. m.: Auto-exclusion started
+[Info] 26/08/2024 11:16:29 p. m.: 0/100 - Unused objects exclusion
+[Info] 26/08/2024 11:16:29 p. m.: 50/100 - Unused objects exclusion
+[Info] 26/08/2024 11:16:29 p. m.: 100/100 - Unused objects exclusion
+[Info] 26/08/2024 11:16:29 p. m.: Auto-exclusion finished
+[Info] 31/08/2024 08:58:34 p. m.: Auto-exclusion started
+[Info] 31/08/2024 08:58:34 p. m.: 0/100 - Unused objects exclusion
+[Info] 31/08/2024 08:58:34 p. m.: 50/100 - Unused objects exclusion
+[Info] 31/08/2024 08:58:34 p. m.: 100/100 - Unused objects exclusion
+[Info] 31/08/2024 08:58:34 p. m.: Auto-exclusion finished
+[Info] 31/08/2024 08:58:44 p. m.: 90/100 - Defragmenting Data - [estimated time left 1 s]
+[Info] 31/08/2024 08:58:44 p. m.: Compacting started
+[Info] 31/08/2024 08:58:44 p. m.: Compacting Workspace - Defragmentation finished in 00:00:00.2595411, database size: 18731008
+[Info] 31/08/2024 08:58:44 p. m.: Compacting Workspace - Recalculating Index Statistics finished in 00:00:00.0215486, database size: 18731008
+[Info] 31/08/2024 08:58:44 p. m.: Compacting finished
+[Info] 31/08/2024 08:58:45 p. m.: 95/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 31/08/2024 08:58:46 p. m.: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 31/08/2024 08:58:47 p. m.: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 31/08/2024 08:58:48 p. m.: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 31/08/2024 08:58:49 p. m.: 99/100 - Defragmenting Data - [estimated time left 0 s]
